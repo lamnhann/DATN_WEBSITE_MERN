@@ -170,7 +170,7 @@ const UpdateProduct = ({ match, history }) => {
                   </div>
 
                   <div className="form-group">
-                    <label htmlFor="category_field">Category</label>
+                    <label htmlFor="category_field">Danh mục</label>
                     <select
                       className="form-control"
                       id="category_field"
